@@ -1,5 +1,5 @@
-//@discord [ResultsMayVary#8821]
-var gAPIKey="69092487a057f5673209290b97ac8d78", gParse;
+//@discord Typo
+var gAPIKey="2552f36ddf648763d4452abb6d3e01d2", gParse;
 
 
 function newParse(reportCode, callback) {
