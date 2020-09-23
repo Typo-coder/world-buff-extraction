@@ -1,0 +1,63 @@
+div, input {
+    padding: 5px;
+}
+input {
+    margin: 5px;
+}
+
+
+input#api {
+    width: 250px;
+}
+input#report {
+    width: 600px;
+}
+input[type='submit'] {
+    font-size: large;
+    width: 33%;
+    min-width: 400px;
+}
+
+select {
+    font-size: large;
+}
+
+#fight-length-selector {
+    font-size: medium !important;
+}
+
+.infobox {
+    background-color: gainsboro;
+    padding: 10px;
+    margin: auto;
+    text-align: center;
+}
+
+.bold {
+    font-size: large;
+    font-weight: bold;
+}
+
+#tabs {
+    display: none;
+}
+
+TBODY TR TD {
+    min-width: 50px;
+}
+
+TBODY TR TD:nth-child(1) {
+    min-width: 150px;
+}
+
+TBODY TR TD:nth-child(2),
+TBODY TR TD:nth-child(3) {
+    text-align: center;
+}
+
+TBODY TR TD:nth-child(4),
+TBODY TR TD:nth-child(5)
+{
+    text-align: right;
+}
+
