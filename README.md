@@ -1,5 +1,3 @@
-# ClassicThreatPerSecond
-
-Hosted here: https://resultsmayvary.github.io/ClassicThreatPerSecond/
+# World Buff Extraction
 
 Get an API key: https://classic.warcraftlogs.com/profile
